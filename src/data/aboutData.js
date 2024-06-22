@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
     description1: "Hi there, I'm Mohamed Essam Abu Emira. 👋 👋.",
-    description2: "   I'm Odoo Techno-Functional Expert, with experience implementing financial and supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.specialist: financial, trade & logistics, discrete manufacturing, process manufacturing, HR, Real estate .",
-    image: 2
+    description2: "Experienced ERP Consultant and Product Owner with a robust background in financial management and ERP systems implementation. Skilled in gathering and documenting business requirements, analyzing and improving business processes, and providing functional specifications for ERP systems. Proficient in collaborating with development teams, conducting user acceptance testing, training end-users, and offering ongoing support. Demonstrates strong project management abilities, ensuring that ERP systems meet organizational needs and deliver value to stakeholders. .",
+    image: orangeThemeboy
 }
