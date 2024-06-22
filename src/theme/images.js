@@ -14,7 +14,6 @@ import redThemeboy from '../assets/svg/about/redTheme-boy.svg'
 import redThemegirl from '../assets/svg/about/redTheme-girl.svg'
 import yellowThemeboy from '../assets/svg/about/yellowTheme-boy.svg'
 import yellowThemegirl from '../assets/svg/about/yellowTheme-girl.svg'
-
 import eduBlue from '../assets/svg/education/eduBlue.svg'
 import eduGreen from '../assets/svg/education/eduGreen.svg'
 import eduBlack from '../assets/svg/education/eduBlack.svg'

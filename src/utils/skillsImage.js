@@ -1,5 +1,5 @@
 import erp from '../assets/svg/skills/erp.svg'
-import gcp from '../assets/svg/skills/odoo.svg'
+import odoo from '../assets/svg/skills/odoo.svg'
 import gcp from '../assets/svg/skills/gcp.svg'
 import html from '../assets/svg/skills/html.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
