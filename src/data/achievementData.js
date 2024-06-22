@@ -15,7 +15,7 @@ export const achievementData = {
             details : 'Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates;Agile project management',
             date : 'Aug 20, 2021',
             field : 'Management',
-            image : 'https://raw.githubusercontent.com/mohamedabuemira/abuemira-portfolio-4/main/asset-container/CourseraFoundationsofProjectManagement.jpg'
+            image : 'https://raw.githubusercontent.com/mohamedabuemira/abuemira-portfolio-4/main/asset-container/CourseraFoundationsofProjectManagement.jpeg'
         },
         {
             id : 3,
