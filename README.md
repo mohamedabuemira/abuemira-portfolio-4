@@ -397,9 +397,9 @@ export const educationData = [
 <br />
 
 ```html
-    <meta name="description" content="--- SITE DESCRIPTION ---" />
+    <meta name="description" content="---abuemira-portfolio ---" />
     <meta property="og:image" content="--- YOUR IMAGE ---">
-    <meta property="og:site_name" content="--- YOUR NAME ---"/>
+    <meta property="og:site_name" content="Mohamed Essam Abu Emira"/>
     <meta property="og:title" content="--- YOUR NAME ---"/>
     <meta property="og:url" content="--- YOUR SITE URL ---"/>
     <meta property="og:type" content="website"/>
