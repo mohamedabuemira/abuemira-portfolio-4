@@ -3,13 +3,13 @@ export const socialsData = {
     facebook: 'https://www.facebook.com/mohamed.abuemira',
     linkedIn: 'https://www.linkedin.com/in/abuemira',
     youtube: 'https://youtube.com/channel/UCRbHttqDCt28Uv7-e18YEjQ',
-    instagram: 'https://www.instagram.com/',
-    codepen: 'https://codepen.io/',
+    instagram: 'https://bento.me/abuemira',
+    codepen: 'https://codepen.io/mohamedabuemira',
     twitter: 'https://twitter.com/MohamedAbuemira',
     reddit: 'https://www.reddit.com/user/',
     blogger: 'https://www.blogger.com/',
-    medium: 'https://medium.com/@',
+    medium: 'https://medium.com/@abuemira',
     stackOverflow: 'https://stackoverflow.com/users/',
-    gitlab: 'https://gitlab.com/mohamedabuemira',
-    website: 'https://bento.me/abuemira',
+    gitlab: 'https://gitlab.com/abuemira',
+
 }
