@@ -7,7 +7,7 @@ export const achievementData = {
             details : '-The exam will cover the following subjects: Website, eCommerce, Survey, Marketing, CRM, Sales, Purchases, Project, Timesheet, Accounting, Inventory, MRP, HR, Spreadsheet, POS and Studio.-You’ll have 1.5 hours to complete this 120-questions exam.',
             date : 'Aug 20, 2019',
             field : 'ERP',
-            image : 'https://drive.google.com/file/d/1eHusoGXtbL6_L6svBoYhIoaPme_yoQnj/view'
+            image : 'https://drive.google.com/file/d/1eHusoGXtbL6_L6svBoYhIoaPme_yoQnj'
         },
         {
             id : 2,
