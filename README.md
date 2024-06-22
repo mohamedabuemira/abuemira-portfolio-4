@@ -298,11 +298,11 @@ yarn start
 Eg:
 ```javascript
 export const headerData = {
-    name: '-- YOUR NAME --',
-    title: '-- YOUR TITLE --',
-    desciption:'-- DESCRIPTION --',
-    image: '-- IMAGE --',
-    resumePdf: ''
+    name: 'Mohamed Essam Abu Emira',
+    title: '-Financial Manager| ERP Consultant | Product Owner',
+    desciption: 'I am an experienced Odoo Techno-Functional Consultant with a proven track record in implementing comprehensive solutions across financial management, supply chain management, sales, CRM, planning, manufacturing, and HRM. My unique blend of technical expertise and business acumen allows me to understand customer needs thoroughly and deliver successful implementations. I specialize in financial management, trade and logistics, discrete and process manufacturing, HR, and real estate. ',
+     image: 'https://raw.githubusercontent.com/mohamedabuemira/abuemira-portfolio-4/main/asset-container/landingImg.png'
+    resumePdf: '../assets/pdf/resume.pdf'
 }
 
 // You can also import image and PDF from assets as shown below
@@ -362,7 +362,7 @@ export const educationData = [
 <br />
 
 ## Setting Up Contacts form :envelope_with_arrow:
-> ### Follow these [instructions](https://github.com/hhhrrrttt222111/developer-portfolio/wiki/Contacts) to connect contacts form with Google Sheet
+> ### Follow these [instructions](https://github.com/mohamedabuemira/abuemira-portfolio-4/wiki/Contacts) to connect contacts form with Google Sheet
 
 <br />
 
