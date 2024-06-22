@@ -1,3 +1,5 @@
+import erp from '../assets/svg/skills/erp.svg'
+
 import gcp from '../assets/svg/skills/gcp.svg'
 import html from '../assets/svg/skills/html.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
@@ -81,6 +83,8 @@ export const skillsImage = (skill) => {
     switch (skillID) {
         case 'gcp':
             return gcp;
+        case 'ERP Software':
+            return erp;
         case 'html':
             return html;
         case 'photoshop':
