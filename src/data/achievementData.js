@@ -15,7 +15,7 @@ export const achievementData = {
             details : ' Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum.Through a mix of videos, assessments, and hands-on activities, you’ll get introduced to initiating, planning, and running both traditional and Agile projects. You’ll develop a toolbox to demonstrate your understanding of key project management elements, including managing a schedule, budget, and tea.',
             date : 'Aug 20, 2021',
             field : 'Management',
-            image : 'https://raw.githubusercontent.com/mohamedabuemira/abuemira-portfolio-4/main/asset-container/Odoo17FunctionalCertification.jpg'
+            image : 'https://raw.githubusercontent.com/mohamedabuemira/abuemira-portfolio-4/main/asset-container/CourseraFoundationsofProjectManagement.pdf'
         },
         {
             id : 3,
