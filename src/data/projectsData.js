@@ -11,38 +11,38 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'الهيئة السعودية للمراجعين والمحاسبين SOCPA',
+        projectDesc: 'Support ERP Odex (Odoo community)',
+        tags: ['ERP', 'odoo', 'odex'],
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'implementation ERP Odex (Odoo community)',
+        projectDesc: 'الجمعية الخيرية لرعاية الأيتام بمنطقة الرياض ( إنسان ).',
+        tags: ['ERP', 'odoo', 'odex'],
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Implementation ERP odoo 15 EE',
+        projectDesc: 'abdulHadi  Hadi Al-Qahtani & Sons Company is one of the leading companies in the industry and supplies. The company has been operating since the forties, as it expanded with business growth and became an excellent reputation in the Saudi market. The company seeks to grow and develop as it has a large team of highly qualified professionals..',
+        tags: ['ERP', 'odoo', 'accounting'],
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: three
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'implementation ERP odoo 15 EE',
+        projectDesc: 'Makkiyoon is a renowned real state urban developer based in the holycity of Makah. Spanning over 20 years of experience in creating unique residential and hotel projects for the holy city visitors and for Saudi Arabia in general..',
+        tags: ['ERP', 'odoo', 'accounting'],
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: four
     },
     {
@@ -50,8 +50,8 @@ export const projectsData = [
         projectName: 'E-Commerce App',
         projectDesc: 'A Simple E-commerce application',
         tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: five
     },
     {
@@ -59,8 +59,8 @@ export const projectsData = [
         projectName: 'Uber Lite',
         projectDesc: 'Uber clone',
         tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: six
     },
     {
@@ -68,8 +68,8 @@ export const projectsData = [
         projectName: 'Stock Market App',
         projectDesc: 'A simple stock market API app',
         tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: seven
     },
     {
@@ -77,8 +77,8 @@ export const projectsData = [
         projectName: 'Car Pooling System',
         projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
         tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+         code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: eight
     },
 ]
