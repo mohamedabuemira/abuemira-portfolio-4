@@ -1,6 +1,7 @@
 import erp from '../assets/svg/skills/erp.svg'
 import odoo from '../assets/svg/skills/odoo.svg'
 import BusinessAnalyst from '../assets/svg/skills/BusinessAnalyst.svg'
+import businessprocess from '../assets/svg/skills/businessprocess.svg'
 import Projectmanagement from '../assets/svg/skills/Projectmanagement.svg'
 import crm from '../assets/svg/skills/crm.svg'
 import gcp from '../assets/svg/skills/gcp.svg'
@@ -77,16 +78,41 @@ import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 import canva from '../assets/svg/skills/canva.svg'
+import presales from '../assets/svg/skills/presales.svg'
+import supplychainmanagement from '../assets/svg/skills/supplychainmanagement.svg'
+import technofunctionalconsultant from '../assets/svg/skills/technofunctionalconsultant.svg'
+import technofunctionalconsultant from '../assets/svg/skills/technofunctionalconsultant.svg'
+import consolidation&multi-company from '../assets/svg/skills/consolidation&multi-company.svg'
+import fixedassets from '../assets/svg/skills/fixedassets.svg'
+import financialaccounting from '../assets/svg/skills/financialaccounting.svg'
+import problemsolving from '../assets/svg/skills/problemsolving.svg'
+
+
 
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case 'Consolidation&multi-company':
+            return consolidation&multi-company;
+        case 'Techno-functional consultant':
+            return technofunctionalconsultant;
+       case 'Supply Chain Management':
+            return supplychainmanagement;
+       case 'Fixed Assets':
+            return fixedassets;
+        case 'Financial Accounting':
+            return financialaccounting;
+        case 'Problem-solving':
+            return problemsolving;
+       case 'Pre Sales':
+            return presales;
         case 'gcp':
             return gcp;
+        case 'Business Process':
+            return businessprocess;
         case 'Business Analyst':
             return BusinessAnalyst;
-
         case 'Project management':
             return Projectmanagement;
         case 'odoo':
@@ -243,8 +269,12 @@ export const skillsImage = (skill) => {
             return unity;
         case 'wolframalpha':
             return wolframalpha;
-        case 'canva':
+        case 'Canva':
             return canva;
+          case 'angular':
+            return Angular;
+
+
         default:
             break;
     }
