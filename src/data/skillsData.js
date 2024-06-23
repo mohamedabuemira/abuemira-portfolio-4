@@ -6,7 +6,7 @@
     'Erp Implementation',
     'Business Analyst',
     'Pre Sales',
-    'odoo Functional'
+    'odoo Functional',
     'Financial Accounting',
     'Supply Chain Management',
     'Fixed Assets',
