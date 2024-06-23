@@ -122,8 +122,6 @@ export const skillsImage = (skill) => {
             return erp;
         case 'ERP Integration Skills':
             return erp;
-        case 'Techno-functional consultant':
-            return erp;
         case 'html':
             return html;
         case 'photoshop':
