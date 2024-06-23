@@ -1,5 +1,7 @@
 import erp from '../assets/svg/skills/erp.svg'
 import odoo from '../assets/svg/skills/odoo.svg'
+import BusinessAnalyst from '../assets/svg/skills/BusinessAnalyst.svg'
+import Projectmanagement from '../assets/svg/skills/Projectmanagement.svg'
 import gcp from '../assets/svg/skills/gcp.svg'
 import html from '../assets/svg/skills/html.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
@@ -83,6 +85,10 @@ export const skillsImage = (skill) => {
     switch (skillID) {
         case 'gcp':
             return gcp;
+        case 'Business Analyst':
+            return BusinessAnalyst;
+        case 'Project management':
+            return Projectmanagement;
         case 'odoo':
             return odoo;
         case 'ERP Software':
