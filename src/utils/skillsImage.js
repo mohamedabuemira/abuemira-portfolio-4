@@ -85,6 +85,8 @@ import consolidationmulticompany from '../assets/svg/skills/consolidationmultico
 import fixedassets from '../assets/svg/skills/fixedassets.svg'
 import financialaccounting from '../assets/svg/skills/financialaccounting.svg'
 import problemsolving from '../assets/svg/skills/problemsolving.svg'
+import usertraining from '../assets/svg/skills/usertraining.svg'
+import odoofunctional from '../assets/svg/skills/odoofunctional.svg'
 
 
 
@@ -94,10 +96,15 @@ export const skillsImage = (skill) => {
     switch (skillID) {
         case 'consolidation multi-company':
             return consolidationmulticompany;
-        case 'techno-functional consultant':
+        case 'techno functional consultant':
             return technofunctionalconsultant;
        case 'supply chain management':
             return supplychainmanagement;
+        case 'odoo functional':
+            return odoofunctional;
+
+       case 'user training':
+            return usertraining;
        case 'fixed assets':
             return fixedassets;
         case 'financial accounting':
@@ -110,7 +117,7 @@ export const skillsImage = (skill) => {
             return gcp;
         case 'business process':
             return businessprocess;
-        case 'nusiness analyst':
+        case 'business analyst':
             return BusinessAnalyst;
         case 'project management':
             return Projectmanagement;

@@ -14,7 +14,7 @@
     'Project management',
     'consolidation multi-company',
     'Problem-solving',
-    'Techno-functional consultant',
+    'Techno functional consultant',
     'ERP Integration Skills',
     'Microsoft Office',
     'Python',
