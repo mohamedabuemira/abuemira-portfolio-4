@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "Our journey in the ERP consulting domain is marked by numerous successful implementations and recognized certifications, demonstrating our commitment to excellence and our expertise in delivering top-notch ERP solutions. Here are some highlights:.- Transforming Businesses with Innovative ERP Solutions ,Training and Support for Small and Medium Enterprises (SMEs)",
+    bio : "Our journey in the ERP consulting domain is marked by numerous successful implementations and recognized certifications, demonstrating our commitment to excellence and our expertise in delivering top-notch ERP solutions. Here are some highlights:.- Transforming Businesses with Innovative ERP Solutions .Training and Support for Small and Medium Enterprises (SMEs)",
     achievements : [
         {
             id : 1,
