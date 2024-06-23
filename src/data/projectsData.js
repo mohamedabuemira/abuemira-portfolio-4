@@ -81,6 +81,7 @@ export const projectsData = [
         demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: eight
     },
+    {
     id: 9,
         projectName: 'Suppert & ERP upgrate odoo V 13 to V 15 at Al-Amoudi Group & Partners Co',
         projectDesc: 'Abdul Latif Saeed Al Amoudi & Partners Group is one of the largest national successful group of companies with 65 years of experience in various fields. From its first day Al Amoudi Group had a vision, mission and ambition to support and contribute effectively in the development of Saudi economy with all its different sectors and fields',
