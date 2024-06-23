@@ -91,7 +91,7 @@ export const projectsData = [
     },
      id: 10,
         projectName: 'implementation ERP odoo 14 EE at Al Rajhi Ekhwan',
-        projectDesc: 'The company practices investment activities in many sectors, including Real Estate Development, Industrial Development and the Saudi Stock market ',
+        projectDesc: 'The company practices investment activities in many sectors including Real Estate Development Industrial Development and the Saudi Stock market',
         tags: ['ERP', 'odoo', 'accounting','Inventory and Purchase','Sales & CRM','Human Resource'],
         code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
