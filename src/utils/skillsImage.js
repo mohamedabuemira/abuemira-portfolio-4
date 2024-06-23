@@ -81,7 +81,7 @@ import canva from '../assets/svg/skills/canva.svg'
 import presales from '../assets/svg/skills/presales.svg'
 import supplychainmanagement from '../assets/svg/skills/supplychainmanagement.svg'
 import technofunctionalconsultant from '../assets/svg/skills/technofunctionalconsultant.svg'
-import consolidation&multi-company from '../assets/svg/skills/consolidation&multi-company.svg'
+import consolidationmulticompany from '../assets/svg/skills/consolidationmulticompany.svg'
 import fixedassets from '../assets/svg/skills/fixedassets.svg'
 import financialaccounting from '../assets/svg/skills/financialaccounting.svg'
 import problemsolving from '../assets/svg/skills/problemsolving.svg'
@@ -93,7 +93,7 @@ export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
         case 'Consolidation&multi-company':
-            return consolidation&multi-company;
+            return consolidationmulticompany;
         case 'Techno-functional consultant':
             return technofunctionalconsultant;
        case 'Supply Chain Management':
