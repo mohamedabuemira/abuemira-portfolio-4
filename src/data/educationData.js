@@ -2,7 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'Cairo University - Bachelor of Commerce - BCom',
-        course: 'Accounting,Finance·Supply Chain Management , Auditing,ERP,Human Resources (HR)',
+        course: 'Accounting,Finance,Supply Chain Management,Auditing,ERP,Human Resources(HR)',
         startYear: '2008',
         endYear: '2012'
     },
