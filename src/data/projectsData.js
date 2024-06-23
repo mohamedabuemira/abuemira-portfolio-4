@@ -89,6 +89,14 @@ export const projectsData = [
         demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: eight
     },
+     id: 10,
+        projectName: 'implementation ERP odoo 14 EE at Al Rajhi Ekhwan﻿',
+        projectDesc: 'Al Rajhi Ekhwan Group was established in 2010 AD as a closed joint stock company with its headquarters in Riyadh. The company practices investment activities in many sectors, including Real Estate Development, Industrial Development and the Saudi Stock market through strategic ownership of shares in leading joint stock companies. In addition, the company has various investments within and outside the Kingdom in compliance with the provisions of Islamic Sharia.',
+        tags: ['ERP', 'odoo', 'accounting','Inventory and Purchase','Sales & CRM','Human Resource'],
+         code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        image: seven
+    },
 ]
 
 
