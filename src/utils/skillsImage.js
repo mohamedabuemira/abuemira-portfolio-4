@@ -270,8 +270,8 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'Canva':
             return canva;
-          case 'angular':
-            return Angular;
+          case 'Angular':
+            return angular;
 
 
         default:
