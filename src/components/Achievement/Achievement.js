@@ -15,7 +15,6 @@ function Achievement() {
                 <div className="achievement-body">
                     <h1 style={{color: theme.primary}}>Achievements & Certifications  </h1>
                     <h4 style={{color:theme.tertiary}}>{achievementData.bio}</h4>
-                    <h5 style={{color:theme.tertiary}}>{achievementData.bio1}</h5>
                 </div>
                 <div className="achievement-cards">
                     {achievementData.achievements.map(achieve => ( 
