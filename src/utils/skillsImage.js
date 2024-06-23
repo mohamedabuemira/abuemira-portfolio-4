@@ -89,14 +89,19 @@ export const skillsImage = (skill) => {
             return gcp;
         case 'Business Analyst':
             return BusinessAnalyst;
-
           case 'CRM':
             return crm;
         case 'Project management':
             return Projectmanagement;
         case 'odoo':
             return odoo;
-        case 'ERP Software':
+         case 'Gap Analysis':
+            return odoo;
+        case 'Erp Implementation':
+            return erp;
+         case 'ERP Integration Skills':
+            return erp;
+         case 'Techno-functional consultant':
             return erp;
         case 'html':
             return html;

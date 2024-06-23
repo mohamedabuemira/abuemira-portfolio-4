@@ -1,6 +1,6 @@
  export const skillsData = [
     'odoo',
-    'CRM ',
+    'CRM',
      'Gap Analysis',
      'User Training',
     'Erp Implementation',
@@ -13,7 +13,7 @@
     'Business Process',
     'Project management',
     'Problem-solving',
-    'Techno-functional consultants ',
+    'Techno-functional consultant',
     'ERP Integration Skills',
     'Microsoft Office',
      'Python',
