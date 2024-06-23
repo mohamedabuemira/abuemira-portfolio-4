@@ -13,7 +13,7 @@
     'Business Process',
     'Project management',
     'consolidation multi-company',
-    'Problem-solving',
+    'problem solving',
     'Techno functional consultant',
     'ERP Integration Skills',
     'Microsoft Office',

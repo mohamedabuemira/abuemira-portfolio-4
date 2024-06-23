@@ -109,7 +109,7 @@ export const skillsImage = (skill) => {
             return fixedassets;
         case 'financial accounting':
             return financialaccounting;
-        case 'Problem-solving':
+        case 'problem solving':
             return problemsolving;
        case 'pre sales':
             return presales;
