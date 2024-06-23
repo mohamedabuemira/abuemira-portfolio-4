@@ -85,15 +85,15 @@ export const projectsData = [
         projectName: 'Suppert & ERP upgrate odoo V 13 to V 15 at Al-Amoudi Group & Partners Co',
         projectDesc: 'Abdul Latif Saeed Al Amoudi & Partners Group is one of the largest national successful group of companies with 65 years of experience in various fields. From its first day Al Amoudi Group had a vision, mission and ambition to support and contribute effectively in the development of Saudi economy with all its different sectors and fields',
         tags: ['ERP', 'odoo', 'accounting','Inventory and Purchase','Sales & CRM','Human Resource'],
-         code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: eight
     },
      id: 10,
-        projectName: 'implementation ERP odoo 14 EE at Al Rajhi Ekhwan﻿',
+        projectName: 'implementation ERP odoo 14 EE at Al Rajhi Ekhwan',
         projectDesc: 'Al Rajhi Ekhwan Group was established in 2010 AD as a closed joint stock company with its headquarters in Riyadh. The company practices investment activities in many sectors, including Real Estate Development, Industrial Development and the Saudi Stock market through strategic ownership of shares in leading joint stock companies. In addition, the company has various investments within and outside the Kingdom in compliance with the provisions of Islamic Sharia.',
         tags: ['ERP', 'odoo', 'accounting','Inventory and Purchase','Sales & CRM','Human Resource'],
-         code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
+        code: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         demo: 'https://github.com/mohamedabuemira/abuemira-portfolio-4',
         image: seven
     },
