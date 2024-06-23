@@ -92,35 +92,35 @@ import problemsolving from '../assets/svg/skills/problemsolving.svg'
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
-        case 'Consolidation&multi-company':
+        case 'consolidation multi-company':
             return consolidationmulticompany;
-        case 'Techno-functional consultant':
+        case 'techno-functional consultant':
             return technofunctionalconsultant;
-       case 'Supply Chain Management':
+       case 'supply chain management':
             return supplychainmanagement;
-       case 'Fixed Assets':
+       case 'fixed assets':
             return fixedassets;
-        case 'Financial Accounting':
+        case 'financial accounting':
             return financialaccounting;
         case 'Problem-solving':
             return problemsolving;
-       case 'Pre Sales':
+       case 'pre sales':
             return presales;
         case 'gcp':
             return gcp;
-        case 'Business Process':
+        case 'business process':
             return businessprocess;
-        case 'Business Analyst':
+        case 'nusiness analyst':
             return BusinessAnalyst;
-        case 'Project management':
+        case 'project management':
             return Projectmanagement;
         case 'odoo':
             return odoo;
-        case 'Gap Analysis':
+        case 'gap analysis':
             return odoo;
-        case 'Erp Implementation':
+        case 'erp implementation':
             return erp;
-        case 'ERP Integration Skills':
+        case 'erp integration skills':
             return erp;
         case 'html':
             return html;
@@ -136,7 +136,7 @@ export const skillsImage = (skill) => {
             return afterEffects;
         case 'css':
             return css;
-        case 'CRM':
+        case 'crm':
             return crm;
         case 'javascript':
             return javascript;

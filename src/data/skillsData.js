@@ -12,7 +12,7 @@
     'Fixed Assets',
     'Business Process',
     'Project management',
-    'Consolidation&multi-company',
+    'consolidation multi-company',
     'Problem-solving',
     'Techno-functional consultant',
     'ERP Integration Skills',
