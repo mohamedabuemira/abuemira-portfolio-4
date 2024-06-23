@@ -1,8 +1,8 @@
  export const skillsData = [
     'odoo',
     'CRM',
-     'Gap Analysis',
-     'User Training',
+    'Gap Analysis',
+    'User Training',
     'Erp Implementation',
     'Business Analyst',
     'Pre Sales',
@@ -17,7 +17,8 @@
     'Techno-functional consultant',
     'ERP Integration Skills',
     'Microsoft Office',
-     'Python',
+    'Python',
+    'postgresql',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
