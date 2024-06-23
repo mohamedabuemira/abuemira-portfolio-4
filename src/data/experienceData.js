@@ -15,8 +15,8 @@ export const experienceData = [
     },
      {
         id: 2,
-        company: 'ERP implementation consultant ',
-        jobtitle: 'Ultimate Solutions "Yemen soft", Egypt',
+        company: 'Ultimate Solutions "Yemen soft", Egypt ',
+        jobtitle: 'ERP implementation consultant',
         startYear: 'may, 2019 ',
         endYear: 'Feb,2021'
     },
