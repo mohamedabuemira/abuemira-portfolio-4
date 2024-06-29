@@ -22,13 +22,20 @@ export const experienceData = [
     },
     {
         id: 3,
+        company: 'Hsoub | حسوب',
+        jobtitle: 'ERP Consultant | Financial Manager',
+        startYear: 'May 2019',
+        endYear: 'Present'
+    },
+    {
+        id: 4,
         company: 'Odoo Tec,',
         jobtitle: 'Odoo Functional Consultant',
         startYear: 'Feb,2021',
         endYear: 'Jan,2023'
     },
     {
-        id: 4,
+        id: 5,
         company: 'Expert Company',
         jobtitle: 'ERP Consultant | Product Owner',
         startYear: 'Jan,2023',
