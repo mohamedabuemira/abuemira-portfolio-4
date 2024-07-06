@@ -4,7 +4,7 @@ export const experienceData = [
         company: 'Nile for Plastic Industries',
         jobtitle: 'General Accountant ',
         startYear: 'Nov 2013 ',
-        endYear: 'Nov 2013 '
+        endYear: 'Aug 2015 '
     },
     {
         id: 2,
